@@ -1,0 +1,30 @@
+//Hack utterances, Alexa with more than 25 entries ignore the pattern and make Speech to Text functions
+GetFirstEventIntent {out|message}
+GetFirstEventIntent {out at|message}
+GetFirstEventIntent {out at lunch|message}
+GetFirstEventIntent {out at lunch table|message}
+GetFirstEventIntent {out at lunch table or|message}
+GetFirstEventIntent {out at dream|message}
+GetFirstEventIntent {out at cream or|message}
+GetFirstEventIntent {dragon or|message}
+GetFirstEventIntent {pizza spaghetti mandolino berlusconi|message}
+GetFirstEventIntent {pizza spaghetti mandolino sentence|message}
+GetFirstEventIntent {example test find one two|message}
+GetFirstEventIntent {three tree on a lime pear|message}
+GetFirstEventIntent {custom interaction on a|message}
+GetFirstEventIntent {airplane crash subwater|message}
+GetFirstEventIntent {games|message}
+GetFirstEventIntent {mr robot|message}
+GetFirstEventIntent {start|message}
+GetFirstEventIntent {launch a rocket|message}
+GetFirstEventIntent {be yourself|message}
+GetFirstEventIntent {try|message}
+GetFirstEventIntent {win his hackathon|message}
+GetFirstEventIntent {tech crunch|message}
+GetFirstEventIntent {startup|message}
+GetFirstEventIntent {crispy bacon|message}
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you

@@ -11,6 +11,6 @@ Speech to Text is not a documented Alexa feature, so a workaround has been found
 The solution does what we planned to do.
 ## What we learned
 We learned how to install, code and configure Alexa (it was the first time)
-We improoved Alexa capabilyties enabling fluid conversational skills 
+We improoved Alexa capabilyties enabling fluid conversational skills
 ## What's next for Moodify
 Add more conversational options to Alexa and improve mood analysis using different Watson APIs
