@@ -1,0 +1,25 @@
+{
+  "name": "watson-middleware",
+  "version": "1.0.0",
+  "description": "middleware that collect text from Alexa and made tone analysis with watson api",
+  "main": "watson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidaleluca/crispy-bacon-it-disrupt-ny-2016.git"
+  },
+  "author": "Luca Vidale - Crispy Bacon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vidaleluca/crispy-bacon-it-disrupt-ny-2016/issues"
+  },
+  "homepage": "https://github.com/vidaleluca/crispy-bacon-it-disrupt-ny-2016#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "watson-developer-cloud": "^1.4.1"
+  }
+}
